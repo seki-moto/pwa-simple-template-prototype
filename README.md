@@ -1,10 +1,14 @@
 # pwa-simple-template
 
-** manifest.json
+- このリポジトリは、prototype 表示確認用です。
+- https://seki-moto.github.io/pwa-simple-template-prototype/
 
-*** Generator
+
+## manifest.json
+
+### Generator
 https://app-manifest.firebaseapp.com/
 
-*** リファレンス
+### リファレンス
 - https://developer.mozilla.org/ja/docs/Web/Manifest
 - https://developers.google.com/web/fundamentals/web-app-manifest/
