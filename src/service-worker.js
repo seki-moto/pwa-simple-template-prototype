@@ -11,7 +11,7 @@ self.addEventListener('install', function(event) {
     .then(function(cache) {
 
         // リソースのパスを配列で指定
-        const RESOURCE = array();
+        const RESOURCE = [];
         return cache.addAll(RESOURCE);
 
     })
